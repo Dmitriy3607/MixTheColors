@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "974AC56C-40D1-45C2-B98C-A3DC82032634"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC4A5E6C-0923-4D01-B47D-410D54A7EF5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MixTheColrors/ViewControllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AC4A5E6C-0923-4D01-B47D-410D54A7EF5E - c016cb99c6b30d8a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MixTheColrors.ViewController.colorSpace.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MixTheColrors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrijsulgin/Documents/MixTheColors2/MixTheColrors/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "AC4A5E6C-0923-4D01-B47D-410D54A7EF5E - cc340d4a04956986"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MixTheColrors.ViewController.colorSpace.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MixTheColrors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrijsulgin/Documents/MixTheColors2/MixTheColrors/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "AC4A5E6C-0923-4D01-B47D-410D54A7EF5E - 301a8b73986196a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MixTheColrors.ViewController.colorSpace.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "MixTheColrors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrijsulgin/Documents/MixTheColors2/MixTheColrors/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "AC4A5E6C-0923-4D01-B47D-410D54A7EF5E - 4ddd563300e0f35c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MixTheColrors.ViewController.colorSpace.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MixTheColrors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrijsulgin/Documents/MixTheColors2/MixTheColrors/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "AC4A5E6C-0923-4D01-B47D-410D54A7EF5E - d2bd3f2bcfe1ce31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MixTheColrors.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MixTheColrors.ViewController"
+                  moduleName = "MixTheColrors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrijsulgin/Documents/MixTheColors2/MixTheColrors/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "AC4A5E6C-0923-4D01-B47D-410D54A7EF5E - 8e51f1a42217aca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MixTheColrors.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MixTheColrors.ViewController&gt;"
+                  moduleName = "MixTheColrors"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dmitrijsulgin/Documents/MixTheColors2/MixTheColrors/ViewControllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
